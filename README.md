@@ -9,7 +9,7 @@ This repository contains a curated list of papers related to privacy attacks aga
 - [Papers and Code](#papers-and-code)
   - [Membership inference](#membership-inference)
   - [Reconstruction](#reconstruction)
-  - [Property inference/Distribution inference](#property-inference)
+  - [Property inference/Distribution inference](#property-inference--distribution-inference)
   - [Model extraction](#model-extraction)
 - [Other](#other)
 
